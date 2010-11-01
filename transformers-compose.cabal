@@ -9,6 +9,8 @@ Name:                transformers-compose
 -- standards guiding when and how versions should be incremented.
 Version:             0.1
 
+Homepage:            http://github.com/aristidb/transformers-compose
+
 -- A short (one-line) description of the package.
 Synopsis:            Arrow-like / category-like composition for transformers.
 
